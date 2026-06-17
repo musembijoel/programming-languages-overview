@@ -5,7 +5,7 @@ A comprehensive guide by;
 
 -MR NAHASHON
 
--MR FRANSIC
+-MR FRANCIS
 
 
 ## Table of content
@@ -25,10 +25,10 @@ Information on each language is given by a different team member.
 
 ## Common Uses
 
-- [ ] Backend web development- building realtime applications and micro services.
-- [ ] Frontend web development- handling user events, building single page applications and manipulating document object model.
-- [ ] Machine learning and Internet of Things-frameworks like Johnny-Five enable JavaScript to control hardware.
-- [ ] Desktop applications- Tauri and electron enable creation of cross platform applications like discord.
+- Backend web development- building realtime applications and micro services.
+- Frontend web development- handling user events, building single page applications and manipulating document object model.
+- Machine learning and Internet of Things-frameworks like Johnny-Five enable JavaScript to control hardware.
+- Desktop applications- Tauri and electron enable creation of cross platform applications like discord.
  
  # css
 
