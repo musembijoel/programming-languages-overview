@@ -47,3 +47,10 @@ Information on each language is given by a different team member.
    - Designing Navigation Menus – creating attractive and interactive menus.
    - Creating Professional Themes – maintaining a consistent look across a website.
    - Improving User Experience – making websites more attractive and easier to use.
+
+#HTML
+-html is the standard mark up language for creating web pages.
+##common uses
+-it describes structure of a web page.
+-it tells the browser how to display content.
+-it labels pieces of a content e.g:heading,image e.t.c.
