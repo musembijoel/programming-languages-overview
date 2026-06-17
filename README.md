@@ -1,5 +1,9 @@
 # programming-languages-overview
-A comprehensive guide by (Joel, Nahashon and Frank)
+A comprehensive guide by;
+MR JOEL
+MR NAHASHON
+MR FRANSIC
+
 
 ## Table of content
 - Introduction
