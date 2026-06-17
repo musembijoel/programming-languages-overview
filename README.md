@@ -22,9 +22,9 @@ Information on each language is given by a different team member.
 
 # JavaScript
 
--It is a full-stack programming language that enables developers create responsive and interactive web applications.
+- It is a full-stack programming language that enables developers create responsive and interactive web applications.
 
--It is capable of powering simple websites and enterprise-grade cross platform applications.
+- It is capable of powering simple websites and enterprise-grade cross platform applications.
 
 ## Common Uses
 
