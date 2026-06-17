@@ -1,13 +1,13 @@
 # programming-languages-overview
 A comprehensive guide by;
 
--MR JOEL
+- MR JOEL
 
--MR NAHASHON
+- MR NAHASHON
 
--MR FRANCIS
+- MR FRANCIS
 
--MR ALBERT
+- MR ALBERT
 
 ## Table of content
 - Introduction
