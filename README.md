@@ -64,6 +64,7 @@ Information on each language is given by a different team member.
 - Generates hyperlinks via the anchor tag to connect different webpages.
 - Integrates native audio, video and interactive graphics directly without external plugins.
 - Designs styled layouts, promotional buttons, imagery for newsletters templates.
+- It is the structure that holds everything together before adding in css and java script
 
 # JAVA
 - Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
