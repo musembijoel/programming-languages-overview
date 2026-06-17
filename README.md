@@ -7,12 +7,14 @@ A comprehensive guide by;
 
 -MR FRANCIS
 
+-MR ALBERT
 
 ## Table of content
 - Introduction
 - JavaScript
 - CSS
 - HTML
+- JAVA
 ## Introduction
 This guide covers three programming languages and their use.
 Information on each language is given by a different team member.
@@ -54,3 +56,26 @@ Information on each language is given by a different team member.
 -it describes structure of a web page.
 -it tells the browser how to display content.
 -it labels pieces of a content e.g:heading,image e.t.c.
+
+# JAVA
+- Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
+- A Java code can run on all platforms that support Java without the need for recompilation.
+
+## Common Uses
+- In Building Mobile Apps  acting as the official and foundational language for Android application development.
+- In Enterprise Web Backends to power large-scale, secure backend systems for banks.
+- In Desktop Applications in creating cross-platform desktop software using frameworks .
+- In Big Data Processing to driving massive data technologies and tools .
+- In Embedded Systems used in running software on microcontrollers, smart cards, and everyday industrial devices.
+- In Cloud Computing used to develop scalable, distributed cloud applications due to its robust memory management and speed.
+- In Game Development to powering popular video games and game engines .
+- In Web Servers & Application Servers to managing internet traffic and web application logic .
+
+
+
+
+
+
+
+
+
