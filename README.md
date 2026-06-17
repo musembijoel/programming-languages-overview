@@ -15,8 +15,9 @@ A comprehensive guide by;
 - CSS
 - HTML
 - JAVA
+
 ## Introduction
-This guide covers three programming languages and their use.
+This guide covers four programming languages and their use.
 Information on each language is given by a different team member.
 
 # JavaScript
@@ -50,12 +51,19 @@ Information on each language is given by a different team member.
    - Creating Professional Themes – maintaining a consistent look across a website.
    - Improving User Experience – making websites more attractive and easier to use.
 
-#HTML
--[ ] html is the standard mark up language for creating web pages.
-##common uses
--it describes structure of a web page.
--it tells the browser how to display content.
--it labels pieces of a content e.g:heading,image e.t.c.
+# HTML
+- HTML stands for Hype Text Mark Up Language.
+- It is the standard mark up language for creating web pages.
+  
+## common uses
+
+- It describes structure of a web page.
+- It tells the browser how to display content.
+- It labels pieces of a content e.g:heading,image e.t.c.
+- Caches resource data locally so that web applications can work without internet connection.
+- Generates hyperlinks via the anchor tag to connect different webpages.
+- Integrates native audio, video and interactive graphics directly without external plugins.
+- Designs styled layouts, promotional buttons, imagery for newsletters templates.
 
 # JAVA
 - Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
