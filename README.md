@@ -71,13 +71,13 @@ Information on each language is given by a different team member.
 - A Java code can run on all platforms that support Java without the need for recompilation.
 
 ## Common Uses
-- In Building Mobile Apps  acting as the official and foundational language for Android application development.
-- In Enterprise Web Backends to power large-scale, secure backend systems for banks.
-- In Desktop Applications in creating cross-platform desktop software using frameworks .
-- In Big Data Processing to driving massive data technologies and tools .
-- In Embedded Systems used in running software on microcontrollers, smart cards, and everyday industrial devices.
-- In Cloud Computing used to develop scalable, distributed cloud applications due to its robust memory management and speed.
-- In Game Development to powering popular video games and game engines .
-- In Web Servers & Application Servers to managing internet traffic and web application logic .
+- In Building Mobile Apps: Acting as the official and foundational language for Android application development.
+- In Enterprise Web Backends: Powering large-scale, secure backend systems for banks.
+- In Desktop Applications: Creating cross-platform desktop software using frameworks.
+- In Big Data Processing: Driving massive data technologies and tools.
+- In Embedded Systems: Running software on microcontrollers, smart cards, and everyday industrial devices.
+- In Cloud Computing: Developing scalable, distributed cloud applications due to its robust memory management and speed.
+- In Game Development: Powering popular video games and game engines.
+- In Web Servers & Application Servers: Managing internet traffic and web application logic.
 
 
