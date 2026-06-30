@@ -50,10 +50,6 @@ Information on each language is given by a different team member.
    - Designing Navigation Menus – creating attractive and interactive menus.
    - Creating Professional Themes – maintaining a consistent look across a website.
    - Improving User Experience – making websites more attractive and easier to use.
-
-# HTML
-- HTML stands for Hype Text Mark Up Language.
-- It is the standard mark up language for creating web pages.
   
 ## common uses
 
@@ -79,5 +75,26 @@ Information on each language is given by a different team member.
 - In Cloud Computing: Developing scalable, distributed cloud applications due to its robust memory management and speed.
 - In Game Development: Powering popular video games and game engines.
 - In Web Servers & Application Servers: Managing internet traffic and web application logic.
+
+## MR FRANCIS WORKSPACE.
+A contrbution in the group work that explains the subjeccts;*html*,and*claude*.
+
+### html
+this is the standard markup language for creating web pages.
+
+#### common uses
+-desribes structure of a webpage.
+
+-tells the browser how to display content through the elements.
+
+### claude
+a command line tool that runs in your terminal as vs code.
+
+#### common uses
+-reads actual file and writes the code.
+
+-run tests.
+
+-can commit to github.
 
 
